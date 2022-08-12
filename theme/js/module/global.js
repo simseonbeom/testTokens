@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 12 Aug 2022 10:41:41 GMT
+ * Generated on Fri, 12 Aug 2022 11:03:19 GMT
  */
 
 module.exports = {
@@ -299,5 +299,16 @@ module.exports = {
       "blur": 24,
       "spread": 0
     }
+  },
+  "puple": {
+    "100": "#e1ccf2",
+    "200": "#c399e5",
+    "300": "#a666d7",
+    "400": "#8833ca",
+    "500": "#6a00bd",
+    "600": "#550097",
+    "700": "#400071",
+    "800": "#2a004c",
+    "900": "#150026"
   }
 }

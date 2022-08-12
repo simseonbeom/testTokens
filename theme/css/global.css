@@ -105,4 +105,13 @@
   --below-high: 0 16 48 0 #0000004d;
   --below-medium: 0 8 36 0 #00000033;
   --below-low: 0 4 24 0 #0000001a;
+  --puple-100: #e1ccf2;
+  --puple-200: #c399e5;
+  --puple-300: #a666d7;
+  --puple-400: #8833ca;
+  --puple-500: #6a00bd;
+  --puple-600: #550097;
+  --puple-700: #400071;
+  --puple-800: #2a004c;
+  --puple-900: #150026;
 }

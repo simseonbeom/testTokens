@@ -612,5 +612,43 @@
       },
       "type": "boxShadow"
     }
+  },
+  "puple": {
+    "100": {
+      "value": "#e1ccf2",
+      "type": "color"
+    },
+    "200": {
+      "value": "#c399e5",
+      "type": "color"
+    },
+    "300": {
+      "value": "#a666d7",
+      "type": "color"
+    },
+    "400": {
+      "value": "#8833ca",
+      "type": "color"
+    },
+    "500": {
+      "value": "#6a00bd",
+      "type": "color"
+    },
+    "600": {
+      "value": "#550097",
+      "type": "color"
+    },
+    "700": {
+      "value": "#400071",
+      "type": "color"
+    },
+    "800": {
+      "value": "#2a004c",
+      "type": "color"
+    },
+    "900": {
+      "value": "#150026",
+      "type": "color"
+    }
   }
 }
