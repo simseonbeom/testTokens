@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '16.15.0'
-      # step 2. 종속성 모듈 설치
+      # step 2. 종속성 모듈 설치 
       - name: Install Dependencies
         run: npm i
       # step 3. 테마 JSON 생성(변환)
