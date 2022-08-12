@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 12 Aug 2022 11:03:19 GMT
+ * Generated on Fri, 12 Aug 2022 11:06:35 GMT
  */
 
 export const 140 = "140%";
@@ -118,3 +118,12 @@ export const Puple600 = "#550097";
 export const Puple700 = "#400071";
 export const Puple800 = "#2a004c";
 export const Puple900 = "#150026";
+export const Pink100 = "#fcccf2";
+export const Pink200 = "#f999e4";
+export const Pink300 = "#f766d7";
+export const Pink400 = "#f433ca";
+export const Pink500 = "#f100bc";
+export const Pink600 = "#c10097";
+export const Pink700 = "#910071";
+export const Pink800 = "#60004b";
+export const Pink900 = "#300026";
